@@ -1,0 +1,22 @@
+{
+  "nodePath": "C:/Program Files/nodejs/node",
+  "enabled": true,
+  "hotkeys": {
+    "accept": "Ctrl-Shift-Enter",
+    "cancel": "Escape",
+    "request": "Ctrl-Shift-?",
+    "partial": "Ctrl-Shift->",
+    "next": "Ctrl-ArrowDown",
+    "disable": "Ctrl-ArrowUp"
+  },
+  "suggestionDelay": 500,
+  "debug": false,
+  "onlyOnHotkey": false,
+  "onlyInCodeBlock": false,
+  "exclude": [],
+  "deviceSpecificSettings": [
+    "nodePath"
+  ],
+  "useDeviceSpecificSettings": false,
+  "proxy": ""
+}
